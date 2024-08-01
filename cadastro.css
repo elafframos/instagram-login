@@ -1,0 +1,76 @@
+body {
+    background: rgb(255, 255, 255); /*Cor das página */
+    font: normal 20pt arial; /*Letra do site */
+    right: 300px;
+}
+
+
+section {
+    text-align: center;
+    background: rgb(255, 255, 255); /*Cor da borda */
+    padding: 30px; /*Tamanho da borda */
+    width: 300px; /*Largura da borda */
+    margin: auto; /*Local da margem */
+    border: 1px solid rgb(219, 219, 219); /*Tamanho e cor da borda */
+    
+}
+
+#email {
+    height: 3vh;
+}
+
+#nome {
+    height: 3vh;
+}
+
+#usuario {
+    height: 3vh;
+}
+
+#senha {
+    height: 3vh;
+}
+
+#button {
+    background-color: rgb(62, 183, 253);
+    border: 1px solid rgb(62, 183, 253);
+    border-radius: 10px;
+    height: 4vh;
+    width: 30vh;
+    color: white;
+}
+
+#facebook {
+    background-color: rgb(62, 138, 253);
+    border: 1px solid rgb(62, 138, 253);
+    border-radius: 10px;
+    height: 3vh;
+    width: 30vh;
+    color: white;
+    font: normal 15pt arial;
+}
+
+div#cadastrar {
+    font: normal 14pt arial;
+    text-align: center;
+}
+
+#esqueceu {
+    font: normal 9pt arial;
+    color: black;
+    
+}
+
+#texto {
+    font: normal 10pt arial;
+}
+
+#texto1 {
+    font: normal 13pt arial;
+}
+
+footer {
+    color: rgb(0, 0, 0); /*Cor do meu nome */
+    text-align: center; /*Local do meu nome */
+    font-style: italic; /*Estilo da fonte */
+}
