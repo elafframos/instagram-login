@@ -1,0 +1,65 @@
+body {
+    background: rgb(255, 255, 255); /*Cor das página */
+    font: normal 20pt arial; /*Letra do site */
+}
+
+
+section {
+    text-align: center; /* Serve para alinhar os textos dessa seção */
+    background: rgb(255, 255, 255); /*Cor da borda */
+    padding: 30px; /*Tamanho da borda */
+    width: 300px; /*Largura da borda */
+    margin: auto; /*Local da margem */
+    border: 1px solid rgb(219, 219, 219); /*Tamanho e cor da borda */
+    
+}
+
+#entrar {
+    font: normal 14pt arial; /* Tamanho e forma das letras */
+}
+
+#email {
+    height: 3vh; /* Serve para mexer na altura do campo do e-mail */
+}
+
+#botao {
+    background-color: rgb(62, 183, 253); /* Cor do botão entrar */
+    border: 1px solid rgb(62, 183, 253); /* Cor da borda do botão entrar */
+    border-radius: 10px; /* Formato da borda */
+    height: 3vh; /* Serve para mexer na altura do botão entrar */
+    width: 30vh; /* Serve para mexer na largura do botão entrar */
+    color: white; /* Cor do texto do botão */
+}
+
+div#cadastrar {
+    font: normal 10pt arial;
+    text-align: center;
+}
+
+#texto {
+    font: normal 10pt arial;
+}
+
+#texto1 {
+    font: normal 10pt arial;
+}
+
+#nao {
+    font: normal 9pt arial;
+}
+
+button {
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    margin-top: -20px;
+    height: 6vh;
+    width: 36vh;
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    color: rgb(0, 0, 0); /*Cor do meu nome */
+    text-align: center; /*Local do meu nome */
+    font-style: italic; /*Estilo da fonte */
+}
